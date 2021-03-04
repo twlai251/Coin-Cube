@@ -14,7 +14,9 @@ Preview gameplay : https://github.com/twlai251/Coin-Cube/blob/main/CoinCubeGamep
 
 Unity is the world’s leading platform for creating and operating interactive, real-time 3D content, providing the tools to make amazing games and publish them to a wide range of devices. The Unity core platform enables entire creative teams to be more productive together.
 
-To learn more, go to https://docs.unity3d.com/2021.1/Documentation/Manual/index.html
+To learn more, go to https://unity.com/
+<br>
+Documentation : https://docs.unity3d.com/2021.1/Documentation/Manual/index.html
 
 ## To run the program
 
