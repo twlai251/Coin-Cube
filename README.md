@@ -16,5 +16,5 @@ To learn more, go to https://docs.unity3d.com/2021.1/Documentation/Manual/index.
 
 ## To run the program
 
-Download and unzip the zip file. After you unzip the file, go to the follow folders, **Build** --> **Windows** --> **x86** --> run the `CoinCube.exe` file.
+Download and unzip the file. After you unzip the file, go to the follow folders, **Build** --> **Windows** --> **x86** --> run the `CoinCube.exe` file.
 The game will automatically run on fullscreen.
