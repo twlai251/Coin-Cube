@@ -1,4 +1,4 @@
-# Coin-Cube
+# Coin Cube
 A 3D game using Unity fundamentals.
  
 Players can use the arrow keys or `W`, `A`, `S`, `D` keys on the keyboard to move the blue cube and `SPACEBAR` to jump. The goal of the game is to collect all the coins on the level to advance to the next level without touching the red blocks. Each level will get more difficult as the player advances.
