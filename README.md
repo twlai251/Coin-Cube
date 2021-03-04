@@ -5,6 +5,8 @@ Players can use the arrow keys or `W`, `A`, `S`, `D` keys on the keyboard to mov
 
 <br><br>
 ![Gameplay](https://github.com/twlai251/Coin-Cube/blob/main/Capture.PNG)
+<br><br>
+Preview gameplay : https://github.com/twlai251/Coin-Cube/blob/main/CoinCubeGameplay.mp4
 
 <br>
 
