@@ -4,12 +4,10 @@ A 3D game using Unity fundamentals.
 <p align="justify">
 Players can use the `ARROW KEYS` or `W`, `A`, `S`, `D` keys on the keyboard to move the blue cube and `SPACEBAR` to jump. The goal of the game is to collect all the coins on the level to advance to the next level without touching the red blocks. Each level will get more difficult as the player advances.
 </p>
-<br>
-![Gameplay](https://github.com/twlai251/Coin-Cube/blob/main/CoinCubeGameplay.gif)
-<br><br>
-Preview gameplay : https://github.com/twlai251/Coin-Cube/blob/main/CoinCubeGameplay.mp4
 
-<br>
+![Gameplay](https://github.com/twlai251/Coin-Cube/blob/main/CoinCubeGameplay.gif)
+
+Preview gameplay : https://github.com/twlai251/Coin-Cube/blob/main/CoinCubeGameplay.mp4
 
 ## What is Unity?
 
